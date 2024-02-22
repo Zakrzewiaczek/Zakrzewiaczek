@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++, Powershell and Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Zakrzewiaczek?tab=repositories](https://github.com/Zakrzewiaczek?tab=repositories)
+- 👨‍💻 All of my projects are available in GutHub [on my profile](https://github.com/Zakrzewiaczek?tab=repositories)
 
 - 📫 How to reach me **j.zakrzewiaczek@gmail.com**
 
