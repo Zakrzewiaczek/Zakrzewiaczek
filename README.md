@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zakrzewiaczek</h1>
 <h3 align="center">A passionate developer from Poland 🇵🇱</h3>
 
-- 🔭 I’m currently working on [p'Fisher](https://github.com/Zakrzewiaczek/p-Fisher)
+- 🔭 I’m currently working on [**p'Fisher**](https://github.com/Zakrzewiaczek/p-Fisher)
 
-- 🌱 I’m currently learning **C++, Powershell and Unity**
+- 🌱 I’m currently learning **C++ and Powershell**
 
-- 👨‍💻 All of my projects are available in GutHub [on my profile](https://github.com/Zakrzewiaczek?tab=repositories)
+- 👨‍💻 All of my projects are available in GitHub [on my profile](https://github.com/Zakrzewiaczek?tab=repositories)
 
-- 📫 How to reach me **j.zakrzewiaczek@gmail.com**
+- 📫 How to reach me - **j.zakrzewiaczek@gmail.com**
 
 - ⚡ Fun fact - **I like make music**
 
