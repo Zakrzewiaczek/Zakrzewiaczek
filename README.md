@@ -29,7 +29,7 @@
 
 <br>
 
-<p class="centered">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakrzewiaczek&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" /> 
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakrzewiaczek&theme=midnight-purple&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakrzewiaczek&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" /> 
 </p>
