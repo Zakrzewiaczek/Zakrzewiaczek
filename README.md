@@ -2,14 +2,14 @@
   <img src="https://github.com/user-attachments/assets/1445e9b4-2cba-48b9-a33b-63ab63e4a7cc" style="width: 500px; padding: 50px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Zakrzewiaczek</h1>
+<h1 align="center">Hi, I'm Zakrzewiaczek</h1>
 <h3 align="center">A passionate developer from Poland 🇵🇱</h3>
 
 - 🔭 I’m currently working on **Weather Rider**
-- 🌱 I’m currently learning **C++ and Powershell**
+- 🌱 I’m currently learning **C & C++**
 - 👨‍💻 All of my projects are available on GitHub
 - 📫 How to reach me: **j.zakrzewiaczek@gmail.com**
-- ⚡ Fun fact: **I like to make music**
+- ⚡ Fun fact: **I also like making music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
