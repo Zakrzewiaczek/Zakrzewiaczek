@@ -1,3 +1,6 @@
+<img src="https://github.com/user-attachments/assets/1445e9b4-2cba-48b9-a33b-63ab63e4a7cc" style="width: 500px; padding: 50px;"/>
+
+
 <h1 align="center">Hi 👋, I'm Zakrzewiaczek</h1>
 <h3 align="center">A passionate developer from Poland 🇵🇱</h3>
 
