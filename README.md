@@ -18,18 +18,28 @@
 <a href="https://www.youtube.com/channel/UC-g5jExmXlRuHfWrmQfpUsQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zakrzewiaczek" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="dotnet" width="40" height="40"/></a>&nbsp;&nbsp;
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> 
+<br>
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=arduino,c,cpp,cs,dotnet,bash,powershell,regex" alt="My Skills">
+  <br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,linux,md,stackoverflow,unity,visualstudio,vscode" alt="My Skills">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?theme=dark&i=ableton,discord,bots" alt="My Skills">
+  <br>
+  <img src="https://skillicons.dev/icons?theme=dark&i=gcp,gmail,instagram" alt="My Skills">
 </p>
 
-<br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakrzewiaczek&theme=midnight-purple&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakrzewiaczek&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" />
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Zakrzewiaczek&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" /> -->
 </p>
+
+
+
+
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)]() -->
