@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/zakrzewiaczek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakrzewiaczek" height="30" width="40" /></a>
+<a href="https://fb.com/zakrzewiaczek" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zakrzewiaczek" height="30" width="40" /></a>
 <a href="https://instagram.com/zakrzewiaczek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zakrzewiaczek" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC-g5jExmXlRuHfWrmQfpUsQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zakrzewiaczek" height="30" width="40" /></a>
 </p>
@@ -21,9 +22,9 @@
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=arduino,c,cpp,cs,dotnet,bash,powershell,regex" alt="My Skills">
+  <img src="https://skillicons.dev/icons?theme=dark&i=arduino,raspberrypi,c,cpp,cs,dotnet,bash,powershell,regex" alt="My Skills">
   <br>
-  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,linux,md,stackoverflow,unity,visualstudio,vscode" alt="My Skills">
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,linux,md,stackoverflow,selenium,unity,visualstudio,vscode" alt="My Skills">
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?theme=dark&i=ableton,discord,bots" alt="My Skills">
