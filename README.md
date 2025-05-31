@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Weather Rider**
 - 🌱 I’m currently learning **C & C++**
 - 👨‍💻 All of my projects are available on GitHub
-- 📫 How to reach me: **zakrzewiaczek@protonmail.com**, **j.zakrzewiaczek@gmail.com** or **zakrzewiaczek#twoblade.com**
+- 📫 How to reach me: **zakrzewiaczek@protonmail.com**, **j.zakrzewiaczek@gmail.com** or **<a href="https://twoblade.com/">zakrzewiaczek#twoblade.com</a>**
 - ⚡ Fun fact: **I also like making music**
 
 <br>
