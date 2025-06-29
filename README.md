@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Zakrzewiaczek</h1>
 <h3 align="center">A passionate developer from Poland 🇵🇱</h3>
 
-- 🔭 I’m currently working on **Weather Rider**
+- 🔭 I’m currently working on **_???_**
 - 🌱 I’m currently learning **C & C++**
 - 👨‍💻 All of my projects are available on GitHub
 - 📫 How to reach me: **zakrzewiaczek@protonmail.com**, **j.zakrzewiaczek@gmail.com** or **<a href="https://twoblade.com/">zakrzewiaczek#twoblade.com</a>**
