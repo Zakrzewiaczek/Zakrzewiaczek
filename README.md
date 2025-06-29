@@ -6,7 +6,7 @@
 <h3 align="center">A passionate developer from Poland 🇵🇱</h3>
 
 - 🔭 I’m currently working on **_???_**
-- 🌱 I’m currently learning **C & C++**
+- 🌱 I’m currently learning **STM32**
 - 👨‍💻 All of my projects are available on GitHub
 - 📫 How to reach me: **zakrzewiaczek@protonmail.com**, **j.zakrzewiaczek@gmail.com** or **<a href="https://twoblade.com/">zakrzewiaczek#twoblade.com</a>**
 - ⚡ Fun fact: **I also like making music**
