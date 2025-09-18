@@ -24,6 +24,11 @@
   <img src="https://skillicons.dev/icons?theme=dark&i=gcp,gmail,instagram" alt="My Skills">
 </p>
 
+<p align="center">
+  <a href="https://www.codewars.com/users/Zakrzewiaczek">
+    <img src="https://www.codewars.com/users/Zakrzewiaczek/badges/large" alt="Codewars Badge">
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zakrzewiaczek&theme=midnight-purple&hide_border=true" />
